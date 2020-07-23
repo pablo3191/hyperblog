@@ -9,10 +9,5 @@ En este curso vemos de todo:
 - el amor por las buenas practicas
 
 ccreado por el increible
-<<<<<<< HEAD
-=======
-incluye win y linux y mac
-disponible para todas las edades
->>>>>>> readme-mejorado
 
 y como un amable recordatorio: este readme es un chiste
