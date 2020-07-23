@@ -10,5 +10,6 @@ En este curso vemos de todo:
 
 ccreado por el increible
 incluye win y linux y mac
+disponible para todas las edades
 
 y como un amable recordatorio: este readme es un chiste
