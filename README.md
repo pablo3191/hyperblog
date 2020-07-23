@@ -9,5 +9,6 @@ En este curso vemos de todo:
 - el amor por las buenas practicas
 
 ccreado por el increible
+incluye win y linux y mac
 
 y como un amable recordatorio: este readme es un chiste
