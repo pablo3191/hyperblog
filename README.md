@@ -8,4 +8,6 @@ En este curso vemos de todo:
 - trucos
 - el amor por las buenas practicas
 
+ccreado por el increible
+
 y como un amable recordatorio: este readme es un chiste
